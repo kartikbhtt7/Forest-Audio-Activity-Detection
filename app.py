@@ -219,7 +219,7 @@ else:  # Record mode
 st.markdown("---")
 st.markdown("""
 <div style="text-align: center; padding: 10px;">
-    <p>Forest Sound Guardian v1.0 | 🌳 Protect Natural Ecosystems</p>
+    <p>Forest Audio Activity Detection | 🌳 Protect Natural Ecosystems</p>
     <p><small>Built with Streamlit and PyTorch</small></p>
 </div>
 """, unsafe_allow_html=True)
